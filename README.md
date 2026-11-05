@@ -1,2 +1,2 @@
-# apex-planet-task-2-network-security
-Apex Planet Internship – Task 2: Practical implementation of network reconnaissance, Nmap scanning, vulnerability assessment, Wireshark traffic analysis, SYN analysis, and iptables firewall controls in a controlled cybersecurity lab.
+#Elevate Labs Task 1 network-security
+Elevate Labs Task 1 – Network Port Scanning: Practical TCP SYN scanning with Nmap, host discovery, open-port identification, service enumeration, Wireshark packet analysis, and security risk assessment in a controlled virtual lab environment.
